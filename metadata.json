@@ -1,0 +1,5 @@
+{
+  "name": "Sequence Ladder Analytics Tile",
+  "description": "A high-fidelity, dark-mode analytics tile visualizing a conversion funnel with glassmorphism effects, gradient rails, and animated status indicators.",
+  "requestFramePermissions": []
+}
